@@ -1,3 +1,5 @@
+// How to use redis to act like mqtt
+
 const redis=require('redis')
 const subsriber=redis.createClient({
     port:6379,
