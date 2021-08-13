@@ -1,6 +1,5 @@
-Selamat malam ini
+This project intended to Newbie for PubSub with Redis
+Feel free to modify
 
-Project ini digunakan untuk menggantikan MQTT broker
+Cheers!
 
-Salam,
-Mudha 
